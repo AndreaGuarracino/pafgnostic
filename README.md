@@ -8,7 +8,7 @@
 `pafgnostic` is written in Rust, so you can install it using `cargo`:
 
 ```shell
-https://github.com/AndreaGuarracino/pafgnostic
+git clone https://github.com/AndreaGuarracino/pafgnostic
 cd pafgnostic
 cargo install --force --path .
 ```
